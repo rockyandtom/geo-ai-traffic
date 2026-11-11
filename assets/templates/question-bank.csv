@@ -1,0 +1,8 @@
+﻿qid,tier,lang,question,note
+E01,brand,en,What is <brand>?,看它认不认识你
+E02,brand,en,How much does <brand> cost?,查价格是否过时
+E03,tool,en,Is there a website that can <do X>?,主体题型
+E04,tool,en,What free tool can <do Y>?,细分品类
+E05,compare,en,What are the best <category> tools in 2026?,榜单型
+E06,spoken,en,I need something to <do X> for my <event>,口语版
+E07,explain,en,What is <concept>?,只用来验证"解释类不联网"

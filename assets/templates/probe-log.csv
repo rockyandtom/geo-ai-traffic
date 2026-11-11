@@ -1,0 +1,3 @@
+﻿qid,tier,question,lang,env,round,searched,mentioned,rank,quote,cited_url,outdated,does_it_for_you,competitors,screenshot,note
+E01,brand,What is <brand>?,en,anon,1,no,yes,1,"<逐字抄它的原话>",home,no,no,competitor-a.com;competitor-b.com,shots/E01-anon-1.png,
+E03,tool,Is there a website that can <do X>?,en,anon,1,yes,no,,,none,no,yes,competitor-a.com;competitor-c.com,shots/E03-anon-1.png,

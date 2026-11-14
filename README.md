@@ -105,3 +105,9 @@ Scripts write their artifacts (`.geo-state.json`, FAQ and question CSVs, audit r
 ## Origin
 
 Extracted from a personal WorkBuddy skill library and cleaned for public release: machine-specific absolute paths were replaced with portable ones, backup and build artifacts were excluded, and no credentials are included.
+
+## Companion site
+
+The thinking behind this package, including the attribution finding that shaped it, is written up at [WorkBuddy Central: GEO AI Traffic](https://workbuddycentral.com/geo-ai-traffic/). The rule source, scripts and probe templates stay here; the site adds context rather than duplicating the method.
+
+WorkBuddy Central is an independent third-party documentation site and is not affiliated with WorkBuddy or Tencent.
